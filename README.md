@@ -1,53 +1,8 @@
-# Nadun Kanishka
+# About Me
+👋 Hi, I'm Nadun Kariawasam — a passionate Software Engineering student and aspiring UX Engineer from Sri Lanka.<br>💻 I enjoy building intuitive web applications, exploring cloud technologies, and solving real-world problems with clean code and thoughtful design.<br>🌱 Currently learning: Full-stack development, UI/UX design, and cloud integrations.
 
-**Software engineering student and aspiring UX engineer.** Colombo, Sri Lanka.
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadun-kanishka/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/nadunkanishka)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadunkanishka222@gmail.com) 
 
-I build web applications that are clear to use and clean underneath. I like small problems with simple answers: fewer moving parts, clearer failures, interfaces that stay out of the way.
-
-## Now
-
-- Full-stack development
-- UI and UX design
-- Cloud integrations
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=ffbe0b)](https://www.linkedin.com/in/nadun-kanishka/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ffbe0b)](https://github.com/nadunkanishka)
-[![Behance](https://img.shields.io/badge/Behance-111111?style=flat-square&logo=behance&logoColor=ffbe0b)](https://www.behance.net/nadunkanishka)
-[![Email](https://img.shields.io/badge/Email-ff006e?style=flat-square&logo=gmail&logoColor=111111)](mailto:nadunkanishka222@gmail.com)
-
-## Stack
-
-**Languages**
-![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=ffbe0b)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ffbe0b)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=ffbe0b)
-![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=ffbe0b)
-
-**Web**
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=ffbe0b)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=ffbe0b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=ffbe0b)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=ffbe0b)
-![WordPress](https://img.shields.io/badge/WordPress-111111?style=flat-square&logo=wordpress&logoColor=ffbe0b)
-
-**Backend and data**
-![.NET](https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=ffbe0b)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=ffbe0b)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=ffbe0b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=ffbe0b)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=ffbe0b)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=ffbe0b)
-
-**Cloud and hosting**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square&logo=googlecloud&logoColor=ffbe0b)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=ffbe0b)
-![Netlify](https://img.shields.io/badge/Netlify-111111?style=flat-square&logo=netlify&logoColor=ffbe0b)
-
-**Design**
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=ffbe0b)
-![Framer](https://img.shields.io/badge/Framer-111111?style=flat-square&logo=framer&logoColor=ffbe0b)
-![Sketch](https://img.shields.io/badge/Sketch-111111?style=flat-square&logo=sketch&logoColor=ffbe0b)
-![Adobe](https://img.shields.io/badge/Adobe-111111?style=flat-square&logo=adobe&logoColor=ffbe0b)
-![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=ffbe0b)
+# Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
