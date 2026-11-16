@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="t d">
+<title id="t">GITHUB</title>
+<desc id="d">GitHub, @nadunkanishka</desc>
+<defs><clipPath id="c"><rect width="400" height="400" rx="0"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="400" height="400" fill="#111111"/>
+<text x="32" y="56" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="19" fill="#FFFFFF" letter-spacing="0.5">@NADUNKANISHKA</text>
+<path d="M312 62 L360 14 M322 14 H360 V52" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="square"/>
+<text x="32" y="352" font-family="'Archivo Black','Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="58" fill="#FFFFFF">GITHUB</text>
+</g>
+</svg>

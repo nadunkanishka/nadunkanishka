@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="t d">
+<title id="t">Stack</title>
+<desc id="d">Stack. Frontend: HTML, CSS, JavaScript, TypeScript, React, React Native, Vite, WordPress. Backend: Node.js, Express, C# and .NET, REST APIs, JWT. Databases: SQL (MySQL), MongoDB. Real-time: Socket.IO. Tools: Git, GitHub, Docker, Vercel, Figma.</desc>
+<defs><clipPath id="c"><rect width="1200" height="800" rx="8"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="800" fill="#FFFFFF"/>
+<text x="48" y="172" font-family="'Archivo Black','Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="150" fill="#111111" textLength="410" lengthAdjust="spacingAndGlyphs">Stack</text>
+<text x="48" y="232" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="14" fill="#111111" letter-spacing="2">FRONTEND</text>
+<rect x="52" y="254" width="118" height="52" rx="26" fill="#111111"/>
+<rect x="48" y="250" width="118" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="78" cy="276" r="15" fill="#E34F26" stroke="#111111" stroke-width="1.5"/><text x="78" y="280.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="102" y="283" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">HTML</text>
+<rect x="186" y="254" width="107" height="52" rx="26" fill="#111111"/>
+<rect x="182" y="250" width="107" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="212" cy="276" r="15" fill="#1572B6" stroke="#111111" stroke-width="1.5"/><text x="212" y="280.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="236" y="283" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">CSS</text>
+<rect x="309" y="254" width="180" height="52" rx="26" fill="#111111"/>
+<rect x="305" y="250" width="180" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="335" cy="276" r="15" fill="#F7DF1E" stroke="#111111" stroke-width="1.5"/><text x="335" y="280.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#111111" text-anchor="middle">JS</text>
+<text x="359" y="283" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">JavaScript</text>
+<rect x="505" y="254" width="180" height="52" rx="26" fill="#111111"/>
+<rect x="501" y="250" width="180" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="531" cy="276" r="15" fill="#3178C6" stroke="#111111" stroke-width="1.5"/><text x="531" y="280.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">TS</text>
+<text x="555" y="283" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">TypeScript</text>
+<rect x="701" y="254" width="128" height="52" rx="26" fill="#111111"/>
+<rect x="697" y="250" width="128" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="727" cy="276" r="15" fill="#D9F3FB" stroke="#111111" stroke-width="1.5"/><g fill="none" stroke="#149ECA" stroke-width="1.6"><ellipse cx="727" cy="276" rx="11" ry="4.2"/><ellipse cx="727" cy="276" rx="11" ry="4.2" transform="rotate(60 727 276)"/><ellipse cx="727" cy="276" rx="11" ry="4.2" transform="rotate(120 727 276)"/></g><circle cx="727" cy="276" r="2" fill="#149ECA"/>
+<text x="751" y="283" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">React</text>
+<rect x="845" y="254" width="201" height="52" rx="26" fill="#111111"/>
+<rect x="841" y="250" width="201" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="871" cy="276" r="15" fill="#D9F3FB" stroke="#111111" stroke-width="1.5"/><g fill="none" stroke="#149ECA" stroke-width="1.6"><ellipse cx="871" cy="276" rx="11" ry="4.2"/><ellipse cx="871" cy="276" rx="11" ry="4.2" transform="rotate(60 871 276)"/><ellipse cx="871" cy="276" rx="11" ry="4.2" transform="rotate(120 871 276)"/></g><circle cx="871" cy="276" r="2" fill="#149ECA"/>
+<text x="895" y="283" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">React Native</text>
+<rect x="52" y="318" width="118" height="52" rx="26" fill="#111111"/>
+<rect x="48" y="314" width="118" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="78" cy="340" r="15" fill="#8E6BFF" stroke="#111111" stroke-width="1.5"/><text x="78" y="344.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">V</text>
+<text x="102" y="347" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Vite</text>
+<rect x="186" y="318" width="170" height="52" rx="26" fill="#111111"/>
+<rect x="182" y="314" width="170" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="212" cy="340" r="15" fill="#21759B" stroke="#111111" stroke-width="1.5"/><text x="212" y="344.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle">W</text>
+<text x="236" y="347" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">WordPress</text>
+<text x="48" y="410" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="14" fill="#111111" letter-spacing="2">BACKEND</text>
+<rect x="52" y="432" width="149" height="52" rx="26" fill="#111111"/>
+<rect x="48" y="428" width="149" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="78" cy="454" r="15" fill="#3C873A" stroke="#111111" stroke-width="1.5"/><text x="78" y="458.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">N</text>
+<text x="102" y="461" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Node.js</text>
+<rect x="217" y="432" width="149" height="52" rx="26" fill="#111111"/>
+<rect x="213" y="428" width="149" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="243" cy="454" r="15" fill="#111111" stroke="#111111" stroke-width="1.5"/><text x="243" y="458.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" fill="#FFFFFF" text-anchor="middle">ex</text>
+<text x="267" y="461" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Express</text>
+<rect x="382" y="432" width="170" height="52" rx="26" fill="#111111"/>
+<rect x="378" y="428" width="170" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="408" cy="454" r="15" fill="#512BD4" stroke="#111111" stroke-width="1.5"/><text x="408" y="458.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">#</text>
+<text x="432" y="461" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">C# / .NET</text>
+<rect x="568" y="432" width="170" height="52" rx="26" fill="#111111"/>
+<rect x="564" y="428" width="170" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="594" cy="454" r="15" fill="#FF7A00" stroke="#111111" stroke-width="1.5"/><text x="594" y="458.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9" fill="#FFFFFF" text-anchor="middle">API</text>
+<text x="618" y="461" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">REST APIs</text>
+<rect x="754" y="432" width="107" height="52" rx="26" fill="#111111"/>
+<rect x="750" y="428" width="107" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="780" cy="454" r="15" fill="#111111" stroke="#111111" stroke-width="1.5"/><text x="780" y="458.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9" fill="#FFFFFF" text-anchor="middle">JWT</text>
+<text x="804" y="461" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">JWT</text>
+<text x="48" y="512" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="14" fill="#111111" letter-spacing="2">DATABASES</text>
+<rect x="52" y="534" width="190" height="52" rx="26" fill="#111111"/>
+<rect x="48" y="530" width="190" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="78" cy="556" r="15" fill="#4479A1" stroke="#111111" stroke-width="1.5"/><text x="78" y="560.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9" fill="#FFFFFF" text-anchor="middle">SQL</text>
+<text x="102" y="563" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">SQL (MySQL)</text>
+<rect x="258" y="534" width="149" height="52" rx="26" fill="#111111"/>
+<rect x="254" y="530" width="149" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="284" cy="556" r="15" fill="#47A248" stroke="#111111" stroke-width="1.5"/><text x="284" y="560.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">M</text>
+<text x="308" y="563" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">MongoDB</text>
+<text x="48" y="614" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="14" fill="#111111" letter-spacing="2">REAL-TIME</text>
+<rect x="52" y="636" width="170" height="52" rx="26" fill="#111111"/>
+<rect x="48" y="632" width="170" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="78" cy="658" r="15" fill="#111111" stroke="#111111" stroke-width="1.5"/><text x="78" y="662.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" fill="#FFFFFF" text-anchor="middle">IO</text>
+<text x="102" y="665" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Socket.IO</text>
+<text x="48" y="716" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="14" fill="#111111" letter-spacing="2">TOOLS</text>
+<rect x="52" y="738" width="107" height="52" rx="26" fill="#111111"/>
+<rect x="48" y="734" width="107" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="78" cy="760" r="15" fill="#F05032" stroke="#111111" stroke-width="1.5"/><text x="78" y="764.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">G</text>
+<text x="102" y="767" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Git</text>
+<rect x="175" y="738" width="138" height="52" rx="26" fill="#111111"/>
+<rect x="171" y="734" width="138" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="201" cy="760" r="15" fill="#111111" stroke="#111111" stroke-width="1.5"/><text x="201" y="764.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" fill="#FFFFFF" text-anchor="middle">GH</text>
+<text x="225" y="767" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">GitHub</text>
+<rect x="329" y="738" width="138" height="52" rx="26" fill="#111111"/>
+<rect x="325" y="734" width="138" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="355" cy="760" r="15" fill="#2496ED" stroke="#111111" stroke-width="1.5"/><text x="355" y="764.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">D</text>
+<text x="379" y="767" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Docker</text>
+<rect x="483" y="738" width="138" height="52" rx="26" fill="#111111"/>
+<rect x="479" y="734" width="138" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="509" cy="760" r="15" fill="#111111"/><polygon points="509,753 517,766 501,766" fill="#FFFFFF"/>
+<text x="533" y="767" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Vercel</text>
+<rect x="637" y="738" width="128" height="52" rx="26" fill="#111111"/>
+<rect x="633" y="734" width="128" height="52" rx="26" fill="#FFF4DC" stroke="#111111" stroke-width="3"/>
+<circle cx="663" cy="760" r="15" fill="#F24E1E" stroke="#111111" stroke-width="1.5"/><text x="663" y="764.5" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" text-anchor="middle">F</text>
+<text x="687" y="767" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="18" fill="#111111">Figma</text>
+
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="t d">
+<title id="t">Focus areas</title>
+<desc id="d">Software engineering, UX engineering, full-stack, cloud.</desc>
+<defs><clipPath id="c"><rect width="1200" height="290" rx="0"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="290" fill="#0B0B0B"/>
+<g transform="rotate(-2.2 600 112)"><rect x="-100" y="70" width="1400" height="84" fill="#FF0A78"/>
+<text x="40" y="131" font-family="'Archivo Black','Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="52" fill="#111111" xml:space="preserve">SOFTWARE ENGINEERING  ✦  UX ENGINEERING  ✦  FULL-STACK  ✦  CLOUD</text></g><g transform="rotate(2.2 600 186)"><rect x="-100" y="144" width="1400" height="84" fill="#FFB800"/>
+<text x="-80" y="205" font-family="'Archivo Black','Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="52" fill="#111111" xml:space="preserve">REACT  ✦  TYPESCRIPT  ✦  NODE.JS  ✦  .NET  ✦  MONGODB  ✦  DOCKER</text></g>
+</g>
+</svg>
